@@ -1,0 +1,51 @@
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.exe.config
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\bin\Debug\Server.pdb
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.Server.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.exe
+C:\Users\RuvinF\Documents\Visual Studio 2017\Projects\AssignmentCNA\Server\obj\Debug\Server.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.exe.config
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\bin\Debug\Server.pdb
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.Server.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.exe
+C:\Users\RuvinF\Desktop\CNA\Code\AssignmentCNA\Server\obj\Debug\Server.pdb
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.exe.config
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.exe
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\bin\Debug\Server.pdb
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.Server.resources
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.exe
+C:\Users\mainl\source\repos\Multithreaded-Client-Server-Chat-Application-master\Server\obj\Debug\Server.pdb
+C:\Users\mainl\source\repos\UnIn\Server\bin\Debug\Server.exe.config
+C:\Users\mainl\source\repos\UnIn\Server\bin\Debug\Server.exe
+C:\Users\mainl\source\repos\UnIn\Server\bin\Debug\Server.pdb
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.Server.resources
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.exe
+C:\Users\mainl\source\repos\UnIn\Server\obj\Debug\Server.pdb
+C:\C#\C#\Chat Đồ Án\Server\bin\Debug\Server.exe.config
+C:\C#\C#\Chat Đồ Án\Server\bin\Debug\Server.exe
+C:\C#\C#\Chat Đồ Án\Server\bin\Debug\Server.pdb
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.Server.resources
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.Properties.Resources.resources
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.exe
+C:\C#\C#\Chat Đồ Án\Server\obj\Debug\Server.pdb

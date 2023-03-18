@@ -1,0 +1,44 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.MeBubble.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.ChatHeader.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.SearchBox.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.TypingBox.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.Users.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.YouBubble.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\bin\Debug\chat.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\chat\chat\obj\Debug\chat.BeautyForm.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\bin\Debug\chat.exe.config
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\bin\Debug\chat.exe
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\bin\Debug\chat.pdb
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.AssemblyReference.cache
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.SuggestedBindingRedirects.cache
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.BeautyForm.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.Form1.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.MeBubble.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.ChatHeader.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.SearchBox.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.TypingBox.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.YouBubble.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.exe
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.pdb
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.LoginForm.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\bin\Debug\XRails-LoginUI.dll
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.csproj.CopyComplete
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.ConversationCreateForm.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.Converzation.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.Menu.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.MeBubbleImage.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.YouBubbleImage.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.RegisterForm.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.Stickers.resources
+C:\Users\mainl\source\repos\CSharp-ChatUI-Winforms\ChatUI\ChatUI Src\chat\obj\Debug\chat.StickerPicture.resources

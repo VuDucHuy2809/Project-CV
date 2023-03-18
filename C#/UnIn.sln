@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{02FF0EEA-E8A5-497C-8C54-3DEA141EDC08}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{0FD664CE-4B81-48AC-8B0C-201100E3695A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C038FAFD-F60D-450D-88DE-DEAC8F5D8C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FF0EEA-E8A5-497C-8C54-3DEA141EDC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FF0EEA-E8A5-497C-8C54-3DEA141EDC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FF0EEA-E8A5-497C-8C54-3DEA141EDC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FF0EEA-E8A5-497C-8C54-3DEA141EDC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C038FAFD-F60D-450D-88DE-DEAC8F5D8C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C038FAFD-F60D-450D-88DE-DEAC8F5D8C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C038FAFD-F60D-450D-88DE-DEAC8F5D8C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C038FAFD-F60D-450D-88DE-DEAC8F5D8C87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1C7425-5384-4630-B0C7-6048EDF03B03}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\Shared.projitems*{02ff0eea-e8a5-497c-8c54-3dea141edc08}*SharedItemsImports = 4
+		Shared\Shared.projitems*{0fd664ce-4b81-48ac-8b0c-201100e3695a}*SharedItemsImports = 13
+		Shared\Shared.projitems*{c038fafd-f60d-450d-88de-deac8f5d8c87}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

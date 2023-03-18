@@ -1,0 +1,56 @@
+C:\Users\mainl\source\repos\UnIn\Client\bin\Debug\chat.exe.config
+C:\Users\mainl\source\repos\UnIn\Client\bin\Debug\chat.exe
+C:\Users\mainl\source\repos\UnIn\Client\bin\Debug\chat.pdb
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.BeautyForm.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.ConversationCreateForm.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.Form1.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.RegisterForm.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.LoginForm.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.MeBubbleImage.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.MeBubble.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.ChatHeader.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.Menu.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.Properties.Resources.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.SearchBox.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.StickerPicture.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.Stickers.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.TypingBox.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.Converzation.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.YouBubbleImage.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.YouBubble.resources
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.exe
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.pdb
+C:\Users\mainl\source\repos\UnIn\Client\obj\Debug\chat.ConversationMemberForm.resources
+C:\C#\C#\Chat Đồ Án\Client\bin\Debug\chat.exe.config
+C:\C#\C#\Chat Đồ Án\Client\bin\Debug\chat.exe
+C:\C#\C#\Chat Đồ Án\Client\bin\Debug\chat.pdb
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.BeautyForm.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.ConversationMemberForm.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.ConversationCreateForm.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.Form1.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.RegisterForm.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.LoginForm.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.MeBubbleImage.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.MeBubble.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.ChatHeader.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.Menu.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.Properties.Resources.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.SearchBox.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.StickerPicture.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.Stickers.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.TypingBox.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.Converzation.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.YouBubbleImage.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.YouBubble.resources
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\Client.csproj.CopyComplete
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.exe
+C:\C#\C#\Chat Đồ Án\Client\obj\Debug\chat.pdb

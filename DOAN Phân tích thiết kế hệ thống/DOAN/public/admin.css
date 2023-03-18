@@ -1,0 +1,127 @@
+/* (A) UNIVERSAL */
+body, button, input, textarea, select {
+  font-family: Arial, sans-serif;
+	font-size: 16px;
+}
+h1, h2, h3, h4 { margin: 5px 0; }
+
+/* (B) NOW LOADING */
+#page-loader, #page-loader-spin {
+  position: fixed;
+  transition: opacity 0.2s;
+}
+#page-loader {
+	top:0; left:0;
+  width: 100vw; height: 100vh;
+	z-index: 9999;
+  background: rgba(0, 0, 0, 0.5);
+	visibility: hidden; opacity: 0;
+}
+#page-loader.active {
+	visibility: visible; opacity: 1;
+}
+#page-loader-spin{
+	top: 50%; left: 50%;
+	margin: -50px 0 0 -50px;
+}
+
+/* (C) PAGE LAYOUT */
+body {
+  margin: 0; padding: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: stretch;
+}
+#page-sidebar, #page-sidebar a, #page-nav { color: #fff; }
+
+/* (D) SIDE BAR */
+/* (D1) SIDEBAR LAYOUT ON BIG SCREEN */
+#page-sidebar {
+  min-width: 200px;
+	max-width: 200px;
+  transition: margin 0.2s;
+  background: #353535;
+}
+/* (D2) SIDEBAR ITEMS */
+#page-sidebar a {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  text-decoration: none;
+  border-bottom: 1px solid #555;
+}
+#page-sidebar a:hover { background: #222; }
+/* (D3) SIDEBAR ICONS */
+#page-sidebar .ico {
+  display: inline-block;
+  width: 25px;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  color: #f48042;
+}
+/* (D4) HIDE SIDEBAR ON SMALL SCREEN */
+@media (max-width: 768px) {
+  #page-sidebar { margin-left: -200px; }
+  #page-sidebar.active { margin-left: 0; }
+  #page-button-side { display: block !important; }
+}
+
+/* (E) PAGE MAIN */
+#page-main {
+	width: 100%;
+	background: #f7f9fa;
+}
+
+/* (F) NAVIGATION BAR */
+#page-nav {
+  position: relative;
+  height: 50px;
+	background: #474747;
+}
+#page-button-side, #page-button-out {
+  position: absolute; top: 0;
+  width: 50px; height: 50px; line-height: 50px;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  background: #87260e;
+	cursor: pointer;
+}
+#page-button-side {
+  display: none;
+  left: 0;
+}
+#page-button-out { right: 0; }
+
+/* (G) CONTENTS */
+#page-contents { padding: 20px; }
+
+/* (H) FORMS */
+/* (H1) INPUT FIELDS & BUTTONS */
+input, button, select, textarea {
+  box-sizing: border-box;
+  padding: 8px;
+  margin: 8px 2px;
+}
+button, input[type=button], input[type=submit] {
+  background: #87260e;
+  border: 0;
+  color: #fff;
+}
+/* (H2) ZEBRA TABLE */
+table.zebra {
+  width: 100%;
+  border-collapse: collapse;
+}
+table.zebra td { padding: 10px; }
+table.zebra td.right { text-align: right; }
+table.zebra tr:nth-child(odd) { background-color: #f1f1f1; }
+/* (H3) STANDARD FORM */
+form.standard {
+  width: 320px; 
+  padding: 20px;
+  background: #eee;
+  border: 1px solid #ccc;
+}
+form.standard label, form.standard input { width: 100%; }

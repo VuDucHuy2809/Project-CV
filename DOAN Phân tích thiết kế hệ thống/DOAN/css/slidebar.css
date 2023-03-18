@@ -1,0 +1,38 @@
+#logoshop
+{   
+    
+    width: 60px;
+    height: 60px;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #2b303b;
+    min-width: 60px;
+    z-index: 2;
+}
+.dropdown-content a{
+    /*border:1px solid red;*/
+    display: inline-block;
+    margin:5px 0px;
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    overflow:hidden;
+    text-decoration: none;
+    text-align: center;
+}
+.brand:hover .dropdown-content{
+    display: block;
+    z-index: 100;
+}
+.dropdown-content a:hover{
+    color:#ff9900;
+    background-color: #115d6d;
+}
+.text-cl{
+    color:white;
+}
+
+
+
